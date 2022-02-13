@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mama/static/css/main.be211a29.chunk.css",
+    "main.js": "/Mama/static/js/main.90a08168.chunk.js",
+    "main.js.map": "/Mama/static/js/main.90a08168.chunk.js.map",
+    "runtime-main.js": "/Mama/static/js/runtime-main.dbaeb142.js",
+    "runtime-main.js.map": "/Mama/static/js/runtime-main.dbaeb142.js.map",
+    "static/js/2.5419bd73.chunk.js": "/Mama/static/js/2.5419bd73.chunk.js",
+    "static/js/2.5419bd73.chunk.js.map": "/Mama/static/js/2.5419bd73.chunk.js.map",
+    "static/js/3.1eb1263b.chunk.js": "/Mama/static/js/3.1eb1263b.chunk.js",
+    "static/js/3.1eb1263b.chunk.js.map": "/Mama/static/js/3.1eb1263b.chunk.js.map",
+    "index.html": "/Mama/index.html",
+    "static/css/main.be211a29.chunk.css.map": "/Mama/static/css/main.be211a29.chunk.css.map",
+    "static/js/2.5419bd73.chunk.js.LICENSE.txt": "/Mama/static/js/2.5419bd73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbaeb142.js",
+    "static/js/2.5419bd73.chunk.js",
+    "static/css/main.be211a29.chunk.css",
+    "static/js/main.90a08168.chunk.js"
+  ]
+}
